@@ -1,0 +1,134 @@
+
+$primary-purple: #373975;
+$primary-turquoise: #1E90BB;
+$primary-purple-tint: #F6F5FD;
+
+$secondary-purple-1: #2C2C77;
+$secondary-purple-2: #7F7FD1;
+$secondary-purple-3: #8291ED;
+$secondary-purple-4: #E0E0FF;
+
+$grayscale-black: #000000;
+$grayscale-gray: #999999;
+$grayscale-light-gray: #DDDDDD;
+$grayscale-offwhite: #F6F6F6;
+$grayscale-white: #FFFFFF;
+
+$primary-font: Medium;
+$modern-bold: 'ModernEra-Bold';
+$modern-regular: 'ModernEra-Regular';
+$modern-medium: 'ModernEra-Medium';
+
+$border-radius: 25px;
+$text-small: 12px;
+
+$breakpoints: (
+  'small':  1024px,
+  
+  'large':  1200px
+) !default;
+
+/* START Added by Ryan for BFCM */
+.outer-canvas-bfcm {
+font-weight: bold;	width: 100%;	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: "Bold";
+	@media(max-width:767px) {
+	margin-bottom:20px;
+	}
+	}
+.canvas-bfcm {
+	width: 100%;
+background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='1440' height='160'%3E%3ClinearGradient id='a' gradientUnits='userSpaceOnUse' x1='647.583' y1='3.313' x2='648.523' y2='3.313' gradientTransform='matrix(1440 0 0 160 -932472 -450)'%3E%3Cstop offset='0' stop-color='%23bdd6f7'/%3E%3Cstop offset='.996' stop-color='%23e295c1'/%3E%3C/linearGradient%3E%3Cpath d='M0 0h1440v160H0V0z' fill-rule='evenodd' clip-rule='evenodd' fill='url(%23a)'/%3E%3Cpath d='M656.3 530c-28.1-4.4-56.6-7-84.2-13.5-156.6-37-261.8-130.2-295.2-289.2C232.6 16.4 360.3-169.9 539-215.8c104.7-26.9 197.5-3 269.3 80 98.2 113.6 50 295.1-88.9 338.3-59.5 18.6-113.5 6.2-157.7-38.8-34.6-35.2-41.4-86.3-17.6-126 3.4 5.5 6.5 10.1 9.3 14.9 20 33.7 59.9 53.2 96.5 46.8 45.3-7.8 73.5-37.2 82.4-85.4 6.8-36.8-10.7-73.8-46.4-93.7C600.5-127.1 470-101.3 423 17.4c-47.1 119 20.7 265.7 146.3 318.2 125.4 52.3 272.2 8.2 360.2-108.2 143.2-189.4 85.3-455.9-127-578.1-123.3-71-254.3-83.2-392.2-42.4 1.7-2.4 2.3-4 3.4-4.7 110.1-64.2 227.6-101 356.1-87.3 113.3 12.1 204.6 67.9 277.3 154 96.8 114.5 138 248 122.5 396-22.6 215.9-175.7 410.9-409 454.9-25.3 4.8-51 6.9-76.5 10.3h-27.8v-.1z' opacity='.15' fill-rule='evenodd' clip-rule='evenodd' fill='%23f6f6f6'/%3E%3C/svg%3E");
+	background-size: cover;
+	background-position: center center;}
+.col-bfcm {
+	width: 100%;
+	justify-content: center;
+	align-items: center;
+	display: flex;
+	flex-wrap: wrap;}
+.entry-title-bfcm {
+	font-size: 34px;
+	letter-spacing: 4.25px;
+	color: #fff;
+	text-align: center;
+	margin: 18px 0 0 0;
+	display: block;
+	width: 100%;
+	text-transform: uppercase;}
+.content-split-element-bfcm {
+	display: inline-block;
+	line-height: 45px;
+	padding: 0 18px;
+	background-color: mediumpurple;
+	letter-spacing: 5px;
+	font-size: 30px;
+	border-radius: 8px;
+	text-transform: uppercase;
+	font-style: italic;
+	margin: 8px 15px 0 15px;
+	color: #fff;}
+.simple-text-bfcm {
+	display: block;
+	width: 100%;
+	font-size: 18px;
+	text-transform: uppercase;
+	margin: 10px 0 18px 0;
+	letter-spacing: 1.5px;
+	text-align: center;
+	color:#6495ed;
+	font-family: "Medium";}
+.simple-text-bfcm span {
+	color:#373975;}
+@media(max-width:576px) {
+	.entry-title-bfcm {
+		letter-spacing: 2.6px;
+		font-size: 21px;}
+	.content-split-element-bfcm {
+		margin: 5px;
+		padding: 0 5px;
+		line-height: 22px;
+		border-radius: 4px;
+		letter-spacing: 2.3px;
+		font-size: 14px;}
+	.simple-text-bfcm {
+		line-height: 16px;
+		margin: 3px 0 18px 0;
+		font-size: 12px;}
+	.simple-text-bfcm span {
+		display: block;
+		width: 100%;}
+	  .b-hide-bfcm {
+	display: none;
+  }
+}
+
+/* END Added by Ryan for BFCM */
+
+// Ryan edit to make sure product title doesn't expand mobile cart
+@media(max-width:576px) {
+.product-details__title {max-width: 150px;}
+.cart-container {max-width: 377px;}
+}
+
+
+//hack by Ryan to fix cart on smaller screens
+@media (max-device-width : 768px) {
+
+.ipadFix {
+	max-width: 287px;
+}
+
+}
+
+//hack by Ryan to fix cart on iPad Pro
+@media (min-device-width : 769px) 
+and (max-device-width : 1024px) {
+
+.ipadFix {
+	max-width: 306px;
+}
+
+}

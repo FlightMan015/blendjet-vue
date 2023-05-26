@@ -1,0 +1,43 @@
+<template>
+  <div class="logo-container">
+    <img class="logo" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTMiIGhlaWdodD0iNTUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGcgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgIDxwYXRoIGQ9Ik0xLjMzOSAzLjAzM0M2Ljc1OSAxLjYxOCAxMC43OTMuNjk0IDEzLjQ2My4yNmMxLjc5Ni0uMjkyIDMuMjUyLS4wNCA0Ljk1LjY5NS4yODcuMTI0LjU3LjI1Ni45NTcuNDQybC40NjIuMjI0Yy4xODMuMDg5LjMyMy4xNTYuNDYuMjIgMi4wMzcuOTYxIDMuNjM1IDEuMzg5IDYuMDIyIDEuMzk0IDIuNDA3LjAwNSA0LjE4My0uNDI2IDYuNjE5LTEuNDA2LjIxOC0uMDg4IDEuMi0uNDkyIDEuNDY1LS41OTguNTgtLjIzMiAxLjA0Ny0uNDA0IDEuNTEtLjU1IDEuNTMtLjQ4IDIuOTAzLS42MjIgNC4zOTUtLjM2IDIuNDc5LjQzMyA2LjE0MyAxLjM0IDExLjAxNiAyLjcybDEuMTQ5LjMyNy4wMDcgMS4xOTRjLjA2MyAxMC4xMzktMS44ODQgMTkuMTYtNS44NDkgMjcuMDQ1LTMuOTU4IDcuODctMTAuMjIxIDE1LjE5My0xOC43NzIgMjEuOTcxbC0uOTY0Ljc2NC0uOTgxLS43NGMtOS4wNTQtNi44MjYtMTUuNjQ4LTE0LjE0Ni0xOS43NjQtMjEuOTdDMi4wMiAyMy43OS4wMjQgMTQuNzU1LjE1IDQuNTUzTC4xNjUgMy4zNGwxLjE3NC0uMzA3eiIgZmlsbD0iIzA5MDYzNyIgZmlsbC1ydWxlPSJub256ZXJvIi8+CiAgICA8cGF0aCBkPSJNOC45NiAzMC4xNTJjMy43MzMgNy4wOTcgOS42ODggMTMuODIgMTcuODgxIDIwLjE2IDcuNzEyLTYuMjg0IDEzLjM1NC0xMi45OTcgMTYuOTQ0LTIwLjEzNCAzLjU3Ni03LjExIDUuNDE0LTE1LjIzOCA1LjUwOC0yNC40MDItNC4yLTEuMTctNy4zODQtMS45NDYtOS41MzgtMi4zMjMtLjk0Ny0uMTY1LTEuODE4LS4wNzYtMi44OTMuMjYyLS4zNzMuMTE4LS43NzEuMjY0LTEuMjgyLjQ2OS0uMjQ4LjA5OS0xLjIyNS41LTEuNDYuNTk1LTIuNzgzIDEuMTItNC45MzUgMS42NDItNy44MTMgMS42MzYtMi45MDMtLjAwNi00Ljk0My0uNTUyLTcuMzcxLTEuNjk3LS4xNDktLjA3LS4yOTgtLjE0MS0uNDg5LS4yMzRsLS40NTgtLjIyMmMtLjM1MS0uMTY5LS42LS4yODUtLjgzOS0uMzg4LTEuMTc5LS41MS0yLjA0LS42Ni0zLjE3Ny0uNDc1LTIuMzU2LjM4NC01LjkxIDEuMTg2LTEwLjY0NyAyLjQwNS4wNDUgOS4xOSAxLjkyNiAxNy4zIDUuNjM0IDI0LjM0OHoiIGZpbGw9IiNGRkYiIGZpbGwtcnVsZT0ibm9uemVybyIvPgogICAgPHBhdGggZD0iTTM3LjgzIDMxLjgwNGgtNy4xN3MtNC4zMDgtNS4xMDQtNC41NC01LjQxYy0xLjA2OCAxLjQxOC00LjMxMiA1LjQxLTQuMzEyIDUuNDFoLTcuMDYybDcuODUtOS40NjgtNy40OS04LjczM2g3LjEzbDE1LjU5MyAxOC4yMDF6IiBmaWxsPSIjMDkwNjM3Ii8+CiAgICA8cGF0aCBmaWxsPSIjMjdBRUU0IiBkPSJNMjcuMiAxNy4yNmwyLjg1NC0zLjY2NWg2LjkzN2wtNi4zMSA3LjczOXoiLz4KICA8L2c+Cjwvc3ZnPgo="><img class="plus" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGcgc3Ryb2tlPSIjMDkwNjM3IiBzdHJva2Utd2lkdGg9IjEuOTU5IiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCI+CiAgICA8cGF0aCBkPSJNNy4yMDQgMS4zMjd2MTEuMTAxTTEuNjU0IDYuODc3aDExLjEiLz4KICA8L2c+Cjwvc3ZnPgo="><img class="merchant-logo" src="https://extendcoreapiprodextendc-storelogosbucket03b65aac-1hzxdqraz84hj.s3.amazonaws.com/stores/8862eff0-e8c2-47bc-a194-157f853043ec/logo-5b983c74-8551-478b-ba90-fc531933ca7c.png">
+
+  </div>
+</template>
+
+<script>
+export default {
+  
+}
+</script>
+
+<style lang="scss" scoped>
+.logo-container {
+  display: flex;
+  align-items: center;
+  flex-flow: row wrap;
+  // height: 5.0rem;
+  justify-content: center;
+
+  @include respond-to('small') {
+
+  }
+}
+
+.plus {
+  height: 1.3rem;
+  margin: 0 1.3rem;
+}
+.logo {
+  height: 5.0rem;
+}
+.extend-logo {
+  min-height: 3.0rem;
+  margin-bottom: 0.8rem;
+}
+.merchant-logo {
+  max-height: 5.0rem;
+  max-width: 17.0rem;
+}
+
+</style>

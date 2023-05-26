@@ -1,0 +1,104 @@
+@mixin gradient-primary-purple-turquoise($direction) {
+  background: rgb(55,55,149);
+  background: linear-gradient($direction, rgba(55,55,149,1) 0%, rgba(30,144,187,1) 100%);
+}
+
+@mixin gradient-primary-purple-transparent($direction) {
+  background: rgb(55,55,149);
+  background: linear-gradient($direction, rgba(55,55,149,1) 0%, rgba(55,55,149,0) 100%);
+}
+
+@mixin gradient-primary-light-purple($direction) {
+  background: rgb(246,245,253);
+  background: linear-gradient($direction,  rgba(246,245,253,1) 0%,rgba(255,255,255,1) 100%);
+}
+
+@mixin gradient-primary-black($direction) {
+  background: rgb(51,51,51);
+  background: linear-gradient($direction, rgba(51,51,51,1) 0%,rgba(0,0,0,1) 100%);
+}
+
+@mixin gradient-secondary-turquoise($direction) {
+  background: rgb(39,195,225);
+  background: linear-gradient($direction,  rgba(39,195,225,1) 0%,rgba(33,136,184,1) 100%);
+}
+
+@mixin gradient-secondary-purple($direction) {
+  background: rgb(127,128,217);
+  background: linear-gradient($direction,  rgba(127,128,217,1) 0%,rgba(58,58,151,1) 100%);
+}
+
+@mixin gradient-secondary-gray($direction) {
+  background: rgb(232,232,232);
+  background: linear-gradient($direction,  rgba(232,232,232,1) 0%,rgba(255,255,255,1) 100%);
+}
+
+@mixin button-shared {
+  border-radius: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 12px;
+  letter-spacing: 1.75px;
+  line-height: 14px;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  font-family: 'Bold';
+  text-transform: uppercase;
+  
+  cursor: pointer;
+
+  &:hover {
+    @include hover-transition;
+  }
+
+  &:focus {
+    outline: none;
+  }
+}
+
+@mixin button-primary($fill:'white') {
+  @include button-shared();
+  @if $fill == 'purple' {
+    background-color: $primary-purple;
+    color: $grayscale-white;
+    border: none;
+  } @else if $fill == 'white' {
+    background-color: $grayscale-white;
+    color: $primary-purple;
+    border: none;
+  } @else if $fill == 'white-ghost' {
+    background: transparent;
+    border: 2px solid $grayscale-white;
+    color: $grayscale-white;
+  } @else if $fill == 'purple-ghost' {
+    background: transparent;
+    border: 2px solid $primary-purple;
+    color: $primary-purple;
+  } @else {
+    background-color: $grayscale-white;
+    color: $primary-purple;
+  }
+}
+
+@mixin hover-transition() {
+  opacity: 0.7;
+  transition: 0.5s ease;
+}
+
+@mixin respond-to($breakpoint) {
+  // If the key exists in the map
+  @if map-has-key($breakpoints, $breakpoint) {
+    // Prints a media query based on the value
+    @media (max-width: map-get($breakpoints, $breakpoint)) {
+      @content;
+    }
+  }
+
+  // If the key doesn't exist in the map
+  @else {
+    @warn "Unfortunately, no value could be retrieved from `#{$breakpoint}`. "
+        + "Available breakpoints are: #{map-keys($breakpoints)}.";
+  }
+}

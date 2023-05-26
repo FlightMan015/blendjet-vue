@@ -1,0 +1,2171 @@
+{
+  "redirects": [
+    {
+      "source": "/collections/([^/]+)/products/([^/]+)",
+      "destination": "/products/$2",
+      "permanent": true
+    },
+    {
+      "source": "/Marketplace",
+      "destination": "/marketplace",
+      "permanent": true
+    },
+    {
+      "source": "/blogs/recipes",
+      "destination": "/recipes",
+      "permanent": true
+    },
+    {
+      "source": "/blogs/recipes",
+      "destination": "/recipes",
+      "permanent": true
+    },
+    {
+      "source": "/blogs/recipes/([^/]+)",
+      "destination": "/recipes/$1",
+      "permanent": true
+    },
+    {
+      "source": "/tools/:match*",
+      "destination": "https://shop.blendjet.com/tools/:match*",
+      "permanent": true
+    },
+    {
+      "source": "/blogs/news/([^/]+)",
+      "destination": "/blog/$1",
+      "permanent": true
+    },
+    {
+      "source": "/blogs/recipes/strawberry-orange-refresher",
+      "destination": "/blogs/recipes",
+      "permanent": true
+    },
+    {
+      "source": "/one",
+      "destination": "/products/blendjet-2",
+      "permanent": true
+    },
+    {
+      "source": "/patterns",
+      "destination": "/products/blendjet-2-patterns",
+      "permanent": true
+    },
+    {
+      "source": "/PrimeDay",
+      "destination": "/products/blendjet-2",
+      "permanent": true
+    },
+    {
+      "source": "/Baileys",
+      "destination": "/products/baileys-blendjet-2",
+      "permanent": true
+    },
+    {
+      "source": "/baileys",
+      "destination": "/products/baileys-blendjet-2",
+      "permanent": true
+    },
+    {
+      "source": "/products/blendjet-ones",
+      "destination": "/products/blendjet-2",
+      "permanent": true
+    },
+    {
+      "source": "/products/blendjet-onen",
+      "destination": "/products/blendjet-2",
+      "permanent": true
+    },
+    {
+      "source": "/products/blendjet-oneble",
+      "destination": "/products/blendjet-2",
+      "permanent": true
+    },
+    {
+      "source": "/products/blendjet-oneyou",
+      "destination": "/products/blendjet-2",
+      "permanent": true
+    },
+    {
+      "source": "/products/blendjet-onet",
+      "destination": "/products/blendjet-2",
+      "permanent": true
+    },
+    {
+      "source": "/productc/blendjet-one",
+      "destination": "/products/blendjet-2",
+      "permanent": true
+    },
+    {
+      "source": "/prqoducts/blendjet-one",
+      "destination": "/products/blendjet-2",
+      "permanent": true
+    },
+    {
+      "source": "/productos/blendjet-one",
+      "destination": "/products/blendjet-2",
+      "permanent": true
+    },
+    {
+      "source": "/oneblendjetblendjet.com/one",
+      "destination": "/products/blendjet-2",
+      "permanent": true
+    },
+    {
+      "source": "/one.com",
+      "destination": "/products/blendjet-2",
+      "permanent": true
+    },
+    {
+      "source": "/blender",
+      "destination": "/products/blendjet-2",
+      "permanent": true
+    },
+    {
+      "source": "/products/blendjet-coupon",
+      "destination": "/products/blendjet-2",
+      "permanent": true
+    },
+    {
+      "source": "/products/collections/all",
+      "destination": "/products/blendjet-2",
+      "permanent": true
+    },
+    {
+      "source": "/products/blendjet-onef",
+      "destination": "/products/blendjet-2",
+      "permanent": true
+    },
+    {
+      "source": "/products/blendjet-onblendjete",
+      "destination": "/products/blendjet-2",
+      "permanent": true
+    },
+    {
+      "source": "/products/blendjet_one",
+      "destination": "/products/blendjet-2",
+      "permanent": true
+    },
+    {
+      "source": "/pages/happy-customers",
+      "destination": "/products/blendjet-2",
+      "permanent": true
+    },
+    {
+      "source": "/pod",
+      "destination": "/products/blendjet-2",
+      "permanent": true
+    },
+    {
+      "source": "/products/blendjet-ads",
+      "destination": "/products/blendjet-2",
+      "permanent": true
+    },
+    {
+      "source": "/collections/replacement-parts/",
+      "destination": "/replacement-parts",
+      "permanent": true
+    },
+    {
+      "source": "/collectionsallsort_by=best-selling",
+      "destination": "/products/blendjet-2",
+      "permanent": true
+    },
+    {
+      "source": "/products/blendjet-oneVer/749790",
+      "destination": "/products/blendjet-2",
+      "permanent": true
+    },
+    {
+      "source": "/products/belndjet-one",
+      "destination": "/products/blendjet-2",
+      "permanent": true
+    },
+    {
+      "source": "/products/blendjet-oneGO",
+      "destination": "/products/blendjet-2",
+      "permanent": true
+    },
+    {
+      "source": "/oneuse",
+      "destination": "/products/blendjet-2",
+      "permanent": true
+    },
+    {
+      "source": "/one",
+      "destination": "/products/blendjet-2",
+      "permanent": true
+    },
+    {
+      "source": "/orders",
+      "destination": "/products/blendjet-2",
+      "permanent": true
+    },
+    {
+      "source": "/2",
+      "destination": "/products/blendjet-2",
+      "permanent": true
+    },
+    {
+      "source": "/two",
+      "destination": "/products/blendjet-2",
+      "permanent": true
+    },
+    {
+      "source": "/Two",
+      "destination": "/products/blendjet-2",
+      "permanent": true
+    },
+    {
+      "source": "/TWO",
+      "destination": "/products/blendjet-2",
+      "permanent": true
+    },
+    {
+      "source": "/bj2",
+      "destination": "/products/blendjet-2",
+      "permanent": true
+    },
+    {
+      "source": "/BJ2",
+      "destination": "/products/blendjet-2",
+      "permanent": true
+    },
+    {
+      "source": "/Bj2",
+      "destination": "/products/blendjet-2",
+      "permanent": true
+    },
+    {
+      "source": "/collection/all",
+      "destination": "/products/blendjet-2",
+      "permanent": true
+    },
+    {
+      "source": "/blendjet-one",
+      "destination": "/products/blendjet-2",
+      "permanent": true
+    },
+    {
+      "source": "/products/-one",
+      "destination": "/products/blendjet-2",
+      "permanent": true
+    },
+    {
+      "source": "/products/ble23843045701340739ndjet-one",
+      "destination": "/products/blendjet-2",
+      "permanent": true
+    },
+    {
+      "source": "/productnopes/blendjet-one",
+      "destination": "/products/blendjet-2",
+      "permanent": true
+    },
+    {
+      "source": "/collection",
+      "destination": "/products/blendjet-2",
+      "permanent": true
+    },
+    {
+      "source": "/products/blendjetone",
+      "destination": "/products/blendjet-2",
+      "permanent": true
+    },
+    {
+      "source": "/best-selling",
+      "destination": "/products/blendjet-2",
+      "permanent": true
+    },
+    {
+      "source": "/products/all",
+      "destination": "/products/blendjet-2",
+      "permanent": true
+    },
+    {
+      "source": "/blendjet",
+      "destination": "/products/blendjet-2",
+      "permanent": true
+    },
+    {
+      "source": "/products/blendjet-one-2",
+      "destination": "/products/blendjet-2",
+      "permanent": true
+    },
+    {
+      "source": "/products/blendjet-one-1",
+      "destination": "/products/blendjet-2",
+      "permanent": true
+    },
+    {
+      "source": "/products/jetpack-smoothies/products/green-peach-ginger-jetpack-ready-to-blend-smoothie",
+      "destination": "/products/green-peach-ginger-jetpack-ready-to-blend-smoothie",
+      "permanent": true
+    },
+    {
+      "source": "/collections/jetpack-ready-to-blend-smoothies/products/mocha-chia-jetpack-ready-to-blend-smoothie",
+      "destination": "/products/jetpack-smoothies?variant=39289167413314",
+      "permanent": true
+    },
+    {
+      "source": "/products/copy-of-green-peach-ginger-jetpack-ready-to-blend-smoothie",
+      "destination": "/products/mocha-chia-jetpack-ready-to-blend-smoothie",
+      "permanent": true
+    },
+    {
+      "source": "/products/silicon-straw",
+      "destination": "/products/silicone-straw",
+      "permanent": true
+    },
+    {
+      "source": "/zoom",
+      "destination": "https://zoom.us/j/8464547693?pwd=b0kxODhIOU9HVEFOZmI2SEd6eEQ3QT09",
+      "permanent": true
+    },
+    {
+      "source": "/Zoom",
+      "destination": "https://zoom.us/j/8464547693?pwd=b0kxODhIOU9HVEFOZmI2SEd6eEQ3QT09",
+      "permanent": true
+    },
+    {
+      "source": "/ZOOM",
+      "destination": "https://zoom.us/j/8464547693?pwd=b0kxODhIOU9HVEFOZmI2SEd6eEQ3QT09",
+      "permanent": true
+    },
+    {
+      "source": "/zoom2",
+      "destination": "https://zoom.us/j/9207535662?pwd=ZVFJRE5iWTF4N285WEp2WU5rOUUrZz09",
+      "permanent": true
+    },
+    {
+      "source": "/Zoom2",
+      "destination": "https://zoom.us/j/9207535662?pwd=ZVFJRE5iWTF4N285WEp2WU5rOUUrZz09",
+      "permanent": true
+    },
+    {
+      "source": "/ZOOM2",
+      "destination": "https://zoom.us/j/9207535662?pwd=ZVFJRE5iWTF4N285WEp2WU5rOUUrZz09",
+      "permanent": true
+    },
+    {
+      "source": "/tropical-blue-jetpack-smoothie",
+      "destination": "/products/tropical-blue-jetpack-smoothie",
+      "permanent": true
+    },
+    {
+      "source": "/products/blendjet-two",
+      "destination": "/products/blendjet-2",
+      "permanent": true
+    },
+    {
+      "source": "/tv",
+      "destination": "/products/blendjet-2?utm_source=MuteSix&utm_medium=TV&utm_campaign=connectedTV1",
+      "permanent": true
+    },
+    {
+      "source": "/jen",
+      "destination": "/products/blendjet-2?utm_source=Jen",
+      "permanent": true
+    },
+    {
+      "source": "/Jen",
+      "destination": "/products/blendjet-2?utm_source=Jen",
+      "permanent": true
+    },
+    { "source": "/tutorials", "destination": "/user-guide", "permanent": true },
+    { "source": "/pages/team", "destination": "/our-story", "permanent": true },
+    {
+      "source": "/pages/tutorialsTo",
+      "destination": "/our-story",
+      "permanent": true
+    },
+    {
+      "source": "/mindy-farley",
+      "destination": "/our-story",
+      "permanent": true
+    },
+    {
+      "source": "/JenJetPacks",
+      "destination": "/products/jetpack-smoothies?utm_source=JenSelterJetPack",
+      "permanent": true
+    },
+    {
+      "source": "/ppcprotectvip",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=PPCProtectVIP&utm_source=PPCProtectVIP&utm_content=PPCProtectVIP&discount=PPCProtect",
+      "permanent": true
+    },
+    {
+      "source": "/PPCProtectVIP",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=PPCProtectVIP&utm_source=PPCProtectVIP&utm_content=PPCProtectVIP&discount=PPCProtect",
+      "permanent": true
+    },
+    {
+      "source": "/Bundle",
+      "destination": "/products/jetpack-smoothies",
+      "permanent": true
+    },
+    {
+      "source": "/jetpacks",
+      "destination": "/products/jetpack-smoothies",
+      "permanent": true
+    },
+    {
+      "source": "/jetpack",
+      "destination": "/products/jetpack-smoothies",
+      "permanent": true
+    },
+    {
+      "source": "/boo",
+      "destination": "/products/blendjet-2/?discount=boo",
+      "permanent": true
+    },
+    {
+      "source": "/AFEWTHINGS",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=afewthings&discount=afewthings",
+      "permanent": true
+    },
+    {
+      "source": "/CleanEating",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=CleanEating&discount=cleaneating11",
+      "permanent": true
+    },
+    {
+      "source": "/CleanEating",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=CleanEating&discount=cleaneating11",
+      "permanent": true
+    },
+    {
+      "source": "/rollingstone",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=RollingStone&discount=rollingstone11",
+      "permanent": true
+    },
+    {
+      "source": "/RollingStone",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=RollingStone&discount=rollingstone11",
+      "permanent": true
+    },
+    {
+      "source": "/afewthings",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=afewthings&discount=afewthings",
+      "permanent": true
+    },
+    {
+      "source": "/AWESOME",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=AWESOME&discount=AWESOME",
+      "permanent": true
+    },
+    {
+      "source": "/Awesome",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=AWESOME&discount=AWESOME",
+      "permanent": true
+    },
+    {
+      "source": "/awesome",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=AWESOME&discount=AWESOME",
+      "permanent": true
+    },
+    {
+      "source": "/BAD",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=BAD&discount=BAD",
+      "permanent": true
+    },
+    {
+      "source": "/bad",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=BAD&discount=BAD",
+      "permanent": true
+    },
+    {
+      "source": "/BADMOTHER",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=BADMOTHER&discount=BADMOTHER",
+      "permanent": true
+    },
+    {
+      "source": "/badmother",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=BADMOTHER&discount=BADMOTHER",
+      "permanent": true
+    },
+    {
+      "source": "/BECCA",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=BECCA&discount=BECCA",
+      "permanent": true
+    },
+    {
+      "source": "/becca",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=BECCA&discount=BECCA",
+      "permanent": true
+    },
+    {
+      "source": "/BELLAS",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=bellas&discount=bellas",
+      "permanent": true
+    },
+    {
+      "source": "/bellas",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=bellas&discount=bellas",
+      "permanent": true
+    },
+    {
+      "source": "/BIRTHHOUR",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=BIRTHHOUR&discount=BIRTHHOUR",
+      "permanent": true
+    },
+    {
+      "source": "/birthhour",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=BIRTHHOUR&discount=BIRTHHOUR",
+      "permanent": true
+    },
+    {
+      "source": "/DAILYBREATH",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=DAILYBREATH&discount=DAILYBREATH",
+      "permanent": true
+    },
+    {
+      "source": "/dailybreath",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=DAILYBREATH&discount=DAILYBREATH",
+      "permanent": true
+    },
+    {
+      "source": "/DPT",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=DPT&discount=DPT",
+      "permanent": true
+    },
+    {
+      "source": "/dpt",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=DPT&discount=DPT",
+      "permanent": true
+    },
+    {
+      "source": "/DRINK",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=DRINK&discount=DRINK",
+      "permanent": true
+    },
+    {
+      "source": "/drink",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=DRINK&discount=DRINK",
+      "permanent": true
+    },
+    {
+      "source": "/EAR",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=EAR&discount=EAR",
+      "permanent": true
+    },
+    {
+      "source": "/ear",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=EAR&discount=EAR",
+      "permanent": true
+    },
+    {
+      "source": "/ELENA",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=ELENA&discount=ELENA",
+      "permanent": true
+    },
+    {
+      "source": "/elena",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=ELENA&discount=ELENA",
+      "permanent": true
+    },
+    {
+      "source": "/FITISH",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=fitish&discount=fitish",
+      "permanent": true
+    },
+    {
+      "source": "/fitish",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=fitish&discount=fitish",
+      "permanent": true
+    },
+    {
+      "source": "/FOREVER35",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=forever35&discount=forever35",
+      "permanent": true
+    },
+    {
+      "source": "/forever35",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=forever35&discount=forever35",
+      "permanent": true
+    },
+    {
+      "source": "/FUELED",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=fueled&discount=fueled",
+      "permanent": true
+    },
+    {
+      "source": "/fueled",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=fueled&discount=fueled",
+      "permanent": true
+    },
+    {
+      "source": "/GALS",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=GALS&discount=GALS",
+      "permanent": true
+    },
+    {
+      "source": "/gals",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=GALS&discount=GALS",
+      "permanent": true
+    },
+    {
+      "source": "/GALSONTHEGO",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=GALSONTHEGO&discount=GALSONTHEGO",
+      "permanent": true
+    },
+    {
+      "source": "/galsonthego",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=GALSONTHEGO&discount=GALSONTHEGO",
+      "permanent": true
+    },
+    {
+      "source": "/GARAGE",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=garage&discount=garage",
+      "permanent": true
+    },
+    {
+      "source": "/garage",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=garage&discount=garage",
+      "permanent": true
+    },
+    {
+      "source": "/GENWHY",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=GENWHY&discount=GENWHY",
+      "permanent": true
+    },
+    {
+      "source": "/genwhy",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=GENWHY&discount=GENWHY",
+      "permanent": true
+    },
+    {
+      "source": "/GGE",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=gge&discount=gge",
+      "permanent": true
+    },
+    {
+      "source": "/gge",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=gge&discount=gge",
+      "permanent": true
+    },
+    {
+      "source": "/HEYGIRL",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=HEYGIRL&discount=HEYGIRL",
+      "permanent": true
+    },
+    {
+      "source": "/heygirl",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=HEYGIRL&discount=HEYGIRL",
+      "permanent": true
+    },
+    {
+      "source": "/HMCP",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=HMCP&discount=HMCP",
+      "permanent": true
+    },
+    {
+      "source": "/Hmcp",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=HMCP&discount=HMCP",
+      "permanent": true
+    },
+    {
+      "source": "/hmcp",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=HMCP&discount=HMCP",
+      "permanent": true
+    },
+    {
+      "source": "/HOLLYWOOD",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=HOLLYWOOD&discount=HOLLYWOOD",
+      "permanent": true
+    },
+    {
+      "source": "/hollywood",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=HOLLYWOOD&discount=HOLLYWOOD",
+      "permanent": true
+    },
+    {
+      "source": "/IFSTORIES",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=IFSTORIES&discount=IFSTORIES",
+      "permanent": true
+    },
+    {
+      "source": "/IfStories",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=IFSTORIES&discount=IFSTORIES",
+      "permanent": true
+    },
+    {
+      "source": "/Ifstories",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=IFSTORIES&discount=IFSTORIES",
+      "permanent": true
+    },
+    {
+      "source": "/ifstories",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=IFSTORIES&discount=IFSTORIES",
+      "permanent": true
+    },
+    {
+      "source": "/KEEPIT",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=KEEPIT&discount=KEEPIT",
+      "permanent": true
+    },
+    {
+      "source": "/keepit",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=KEEPIT&discount=KEEPIT",
+      "permanent": true
+    },
+    {
+      "source": "/KIKI",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=KIKI&discount=KIKI",
+      "permanent": true
+    },
+    {
+      "source": "/kiki",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=KIKI&discount=KIKI",
+      "permanent": true
+    },
+    {
+      "source": "/MAMA",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=MAMA&discount=MAMA",
+      "permanent": true
+    },
+    {
+      "source": "/mama",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=MAMA&discount=MAMA",
+      "permanent": true
+    },
+    {
+      "source": "/MAMASAID",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=MAMASAID&discount=MAMASAID",
+      "permanent": true
+    },
+    {
+      "source": "/mamasaid",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=MAMASAID&discount=MAMASAID",
+      "permanent": true
+    },
+    {
+      "source": "/MEMORY",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=MEMORY&discount=MEMORY",
+      "permanent": true
+    },
+    {
+      "source": "/memory",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=MEMORY&discount=MEMORY",
+      "permanent": true
+    },
+    {
+      "source": "/MM",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=MM&discount=MM",
+      "permanent": true
+    },
+    {
+      "source": "/mm",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=MM&discount=MM",
+      "permanent": true
+    },
+    {
+      "source": "/MOMMIES",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=MOMMIES&discount=MOMMIES",
+      "permanent": true
+    },
+    {
+      "source": "/mommies",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=MOMMIES&discount=MOMMIES",
+      "permanent": true
+    },
+    {
+      "source": "/NAIL",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=NAIL&discount=NAIL",
+      "permanent": true
+    },
+    {
+      "source": "/nail",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=NAIL&discount=NAIL",
+      "permanent": true
+    },
+    {
+      "source": "/OCT",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=OCT&discount=OCT",
+      "permanent": true
+    },
+    {
+      "source": "/oct",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=OCT&discount=OCT",
+      "permanent": true
+    },
+    {
+      "source": "/ONPURPOSE",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=ONPURPOSE&discount=ONPURPOSE",
+      "permanent": true
+    },
+    {
+      "source": "/onpurpose",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=ONPURPOSE&discount=ONPURPOSE",
+      "permanent": true
+    },
+    {
+      "source": "/PAIGE",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=PAIGE&discount=PAIGE",
+      "permanent": true
+    },
+    {
+      "source": "/paige",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=PAIGE&discount=PAIGE",
+      "permanent": true
+    },
+    {
+      "source": "/PBN",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=pbn&discount=pbn",
+      "permanent": true
+    },
+    {
+      "source": "/pbn",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=pbn&discount=pbn",
+      "permanent": true
+    },
+    {
+      "source": "/PODISAWOMAN",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=PODISAWOMAN&discount=PODISAWOMAN",
+      "permanent": true
+    },
+    {
+      "source": "/podisawoman",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=PODISAWOMAN&discount=PODISAWOMAN",
+      "permanent": true
+    },
+    {
+      "source": "/POP",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=POP&discount=POP",
+      "permanent": true
+    },
+    {
+      "source": "/pop",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=POP&discount=POP",
+      "permanent": true
+    },
+    {
+      "source": "/PROF",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=PROF&discount=PROF",
+      "permanent": true
+    },
+    {
+      "source": "/prof",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=PROF&discount=PROF",
+      "permanent": true
+    },
+    {
+      "source": "/REALCRIME",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=REALCRIME&discount=REALCRIME",
+      "permanent": true
+    },
+    {
+      "source": "/realcrime",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=REALCRIME&discount=REALCRIME",
+      "permanent": true
+    },
+    {
+      "source": "/RICHROLL",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=RICHROLL&discount=RICHROLL",
+      "permanent": true
+    },
+    {
+      "source": "/richroll",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=RICHROLL&discount=RICHROLL",
+      "permanent": true
+    },
+    {
+      "source": "/SANDWICH",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=sandwich&discount=sandwich",
+      "permanent": true
+    },
+    {
+      "source": "/sandwich",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=sandwich&discount=sandwich",
+      "permanent": true
+    },
+    {
+      "source": "/SAZAN",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=SAZAN&discount=SAZAN",
+      "permanent": true
+    },
+    {
+      "source": "/Sazan",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=SAZAN&discount=SAZAN",
+      "permanent": true
+    },
+    {
+      "source": "/sazan",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=SAZAN&discount=SAZAN",
+      "permanent": true
+    },
+    {
+      "source": "/SCOTT",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=SCOTT&discount=SCOTT",
+      "permanent": true
+    },
+    {
+      "source": "/scott",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=SCOTT&discount=SCOTT",
+      "permanent": true
+    },
+    {
+      "source": "/SERIALKILLER",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=SERIALKILLER&discount=SERIALKILLER",
+      "permanent": true
+    },
+    {
+      "source": "/serialkiller",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=SERIALKILLER&discount=SERIALKILLER",
+      "permanent": true
+    },
+    {
+      "source": "/SHAME",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=SHAME&discount=SHAME",
+      "permanent": true
+    },
+    {
+      "source": "/shame",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=SHAME&discount=SHAME",
+      "permanent": true
+    },
+    {
+      "source": "/SHE",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=she&discount=she",
+      "permanent": true
+    },
+    {
+      "source": "/she",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=she&discount=she",
+      "permanent": true
+    },
+    {
+      "source": "/SIP",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=SIP&discount=SIP",
+      "permanent": true
+    },
+    {
+      "source": "/sip",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=SIP&discount=SIP",
+      "permanent": true
+    },
+    {
+      "source": "/SKINNY",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=skinny&discount=skinny",
+      "permanent": true
+    },
+    {
+      "source": "/skinny",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=skinny&discount=skinny",
+      "permanent": true
+    },
+    {
+      "source": "/SKP",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=SKP&discount=SKP",
+      "permanent": true
+    },
+    {
+      "source": "/skp",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=SKP&discount=SKP",
+      "permanent": true
+    },
+    {
+      "source": "/SLEEP",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=sleep&discount=sleep",
+      "permanent": true
+    },
+    {
+      "source": "/sleep",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=sleep&discount=sleep",
+      "permanent": true
+    },
+    {
+      "source": "/SMALLDOSES",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=SMALLDOSES&discount=SMALLDOSES",
+      "permanent": true
+    },
+    {
+      "source": "/smalldoses",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=SMALLDOSES&discount=SMALLDOSES",
+      "permanent": true
+    },
+    {
+      "source": "/SMALLTOWNMURDER",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=smalltownmurder&discount=smalltownmurder",
+      "permanent": true
+    },
+    {
+      "source": "/smalltownmurder",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=smalltownmurder&discount=smalltownmurder",
+      "permanent": true
+    },
+    {
+      "source": "/SPILLEDMILK",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=spilledmilk&discount=spilledmilk",
+      "permanent": true
+    },
+    {
+      "source": "/spilledmilk",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=spilledmilk&discount=spilledmilk",
+      "permanent": true
+    },
+    {
+      "source": "/STORIES",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=stories&discount=stories",
+      "permanent": true
+    },
+    {
+      "source": "/stories",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=stories&discount=stories",
+      "permanent": true
+    },
+    {
+      "source": "/TBC",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=TBC&discount=TBC",
+      "permanent": true
+    },
+    {
+      "source": "/Tbc",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=TBC&discount=TBC",
+      "permanent": true
+    },
+    {
+      "source": "/tbc",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=TBC&discount=TBC",
+      "permanent": true
+    },
+    {
+      "source": "/TGOG",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=TGOG&discount=TGOG",
+      "permanent": true
+    },
+    {
+      "source": "/tgog",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=TGOG&discount=TGOG",
+      "permanent": true
+    },
+    {
+      "source": "/THANKS",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=THANKS&discount=THANKS",
+      "permanent": true
+    },
+    {
+      "source": "/thanks",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=THANKS&discount=THANKS",
+      "permanent": true
+    },
+    {
+      "source": "/THATSOUNDSFUN",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=thatsoundsfun&discount=thatsoundsfun",
+      "permanent": true
+    },
+    {
+      "source": "/thatsoundsfun",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=thatsoundsfun&discount=thatsoundsfun",
+      "permanent": true
+    },
+    {
+      "source": "/THEREAD",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=THEREAD&discount=THEREAD",
+      "permanent": true
+    },
+    {
+      "source": "/thread",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=THEREAD&discount=THEREAD",
+      "permanent": true
+    },
+    {
+      "source": "/TOAST",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=TOAST&discount=TOAST",
+      "permanent": true
+    },
+    {
+      "source": "/toast",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=TOAST&discount=TOAST",
+      "permanent": true
+    },
+    {
+      "source": "/TRISH",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=TRISH&discount=TRISH",
+      "permanent": true
+    },
+    {
+      "source": "/trish",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=TRISH&discount=TRISH",
+      "permanent": true
+    },
+    {
+      "source": "/Unqualified",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=Unqualified&discount=Unqualified",
+      "permanent": true
+    },
+    {
+      "source": "/unqualified",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=Unqualified&discount=Unqualified",
+      "permanent": true
+    },
+    {
+      "source": "/UNQUALIFIED",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=Unqualified&discount=Unqualified",
+      "permanent": true
+    },
+    {
+      "source": "/VANISHED",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=VANISHED&discount=VANISHED",
+      "permanent": true
+    },
+    {
+      "source": "/vanished",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=VANISHED&discount=VANISHED",
+      "permanent": true
+    },
+    {
+      "source": "/VIALL",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=VIALL&discount=VIALL",
+      "permanent": true
+    },
+    {
+      "source": "/ViAll",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=VIALL&discount=VIALL",
+      "permanent": true
+    },
+    {
+      "source": "/Viall",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=VIALL&discount=VIALL",
+      "permanent": true
+    },
+    {
+      "source": "/viall",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=VIALL&discount=VIALL",
+      "permanent": true
+    },
+    {
+      "source": "/WEEKLYDOSE",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=weeklydose&discount=weeklydose",
+      "permanent": true
+    },
+    {
+      "source": "/weeklydose",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=weeklydose&discount=weeklydose",
+      "permanent": true
+    },
+    {
+      "source": "/WHATADAY",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=WHATADAY&discount=WHATADAY",
+      "permanent": true
+    },
+    {
+      "source": "/whataday",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=WHATADAY&discount=WHATADAY",
+      "permanent": true
+    },
+    {
+      "source": "/WHITNEY",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=WHITNEY&discount=WHITNEY",
+      "permanent": true
+    },
+    {
+      "source": "/whitney",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=WHITNEY&discount=WHITNEY",
+      "permanent": true
+    },
+    {
+      "source": "/WHO",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=WHO&discount=WHO",
+      "permanent": true
+    },
+    {
+      "source": "/who",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=WHO&discount=WHO",
+      "permanent": true
+    },
+    {
+      "source": "/WOMEN",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=WomensDay&discount=women",
+      "permanent": true
+    },
+    {
+      "source": "/Women",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=WomensDay&discount=women",
+      "permanent": true
+    },
+    {
+      "source": "/women",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=WomensDay&discount=women",
+      "permanent": true
+    },
+    {
+      "source": "/YFT",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=YFT&discount=YFT",
+      "permanent": true
+    },
+    {
+      "source": "/Yft",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=YFT&discount=YFT",
+      "permanent": true
+    },
+    {
+      "source": "/yft",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=YFT&discount=YFT",
+      "permanent": true
+    },
+    {
+      "source": "/AFTERPAYDAY",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=AfterPayDay&discount=afterpayday",
+      "permanent": true
+    },
+    {
+      "source": "/AfterPayDay",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=afterpayday&discount=afterpayday",
+      "permanent": true
+    },
+    {
+      "source": "/afterpayday",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=afterpayday&discount=afterpayday",
+      "permanent": true
+    },
+    {
+      "source": "/ALLRECIPES",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=AllRecipes&discount=AllRecipes",
+      "permanent": true
+    },
+    {
+      "source": "/AllRecipes",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=AllRecipes&discount=AllRecipes",
+      "permanent": true
+    },
+    {
+      "source": "/allrecipes",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=AllRecipes&discount=AllRecipes",
+      "permanent": true
+    },
+    {
+      "source": "/COSMO",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=Cosmo&discount=Cosmo",
+      "permanent": true
+    },
+    {
+      "source": "/Cosmo",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=Cosmo&discount=Cosmo",
+      "permanent": true
+    },
+    {
+      "source": "/cosmo",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=Cosmo&discount=Cosmo",
+      "permanent": true
+    },
+    {
+      "source": "/EATINGWELL",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=EatingWell&discount=EatingWell",
+      "permanent": true
+    },
+    {
+      "source": "/EatingWell",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=EatingWell&discount=EatingWell",
+      "permanent": true
+    },
+    {
+      "source": "/eatingwell",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=EatingWell&discount=EatingWell",
+      "permanent": true
+    },
+    {
+      "source": "/ELLE",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=elle&discount=elle",
+      "permanent": true
+    },
+    {
+      "source": "/Elle",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=elle&discount=elle",
+      "permanent": true
+    },
+    {
+      "source": "/elle",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=elle&discount=elle",
+      "permanent": true
+    },
+    {
+      "source": "/ELLEN",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=Ellen15&discount=Ellen15",
+      "permanent": true
+    },
+    {
+      "source": "/Ellen",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=Ellen15&discount=Ellen15",
+      "permanent": true
+    },
+    {
+      "source": "/ellen",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=Ellen15&discount=Ellen15",
+      "permanent": true
+    },
+    {
+      "source": "/fit10",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=Fit10&discount=Fit10",
+      "permanent": true
+    },
+    {
+      "source": "/FLY",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=fly&discount=fly",
+      "permanent": true
+    },
+    {
+      "source": "/Fly",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=fly&discount=fly",
+      "permanent": true
+    },
+    {
+      "source": "/fly",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=fly&discount=fly",
+      "permanent": true
+    },
+    {
+      "source": "/FLY11",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=UnitedAirlines&discount=Fly11",
+      "permanent": true
+    },
+    {
+      "source": "/fly11",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=UnitedAirlines&discount=Fly11",
+      "permanent": true
+    },
+    {
+      "source": "/good",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=Good-Housekeeping&discount=Good",
+      "permanent": true
+    },
+    {
+      "source": "/Good",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=Good-Housekeeping&discount=Good",
+      "permanent": true
+    },
+    {
+      "source": "/GOOD",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=Good-Housekeeping&discount=Good",
+      "permanent": true
+    },
+    {
+      "source": "/Health",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=Health&discount=Health",
+      "permanent": true
+    },
+    {
+      "source": "/health",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=Health&discount=Health",
+      "permanent": true
+    },
+    {
+      "source": "/HEALTH",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=Health&discount=Health",
+      "permanent": true
+    },
+    {
+      "source": "/InTouch",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=InTouch&discount=InTouch",
+      "permanent": true
+    },
+    {
+      "source": "/intouch",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=InTouch&discount=InTouch",
+      "permanent": true
+    },
+    {
+      "source": "/INTOUCH",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=InTouch&discount=InTouch",
+      "permanent": true
+    },
+    {
+      "source": "/Kelly",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=KellyClarkson",
+      "permanent": true
+    },
+    {
+      "source": "/kelly",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=KellyClarkson",
+      "permanent": true
+    },
+    {
+      "source": "/KELLY",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=KellyClarkson",
+      "permanent": true
+    },
+    {
+      "source": "/KTLA",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=KTLA&discount=KTLA",
+      "permanent": true
+    },
+    {
+      "source": "/ktla",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=KTLA&discount=KTLA",
+      "permanent": true
+    },
+    {
+      "source": "/ladies",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=Ladies-Roadmap-Podcast&discount=Ladies",
+      "permanent": true
+    },
+    {
+      "source": "/Ladies",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=Ladies-Roadmap-Podcast&discount=Ladies",
+      "permanent": true
+    },
+    {
+      "source": "/LADIES",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=Ladies-Roadmap-Podcast&discount=Ladies",
+      "permanent": true
+    },
+    {
+      "source": "/lifestyle",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=lifestyle&discount=lifestyle11",
+      "permanent": true
+    },
+    {
+      "source": "/LIFESTYLE",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=lifestyle&discount=lifestyle11",
+      "permanent": true
+    },
+    {
+      "source": "/LifeStyle",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=lifestyle&discount=lifestyle11",
+      "permanent": true
+    },
+    {
+      "source": "/lifestyle11",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=lifestyle11&discount=lifestyle11",
+      "permanent": true
+    },
+    {
+      "source": "/living11",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=MarthaStewart&discount=Martha",
+      "permanent": true
+    },
+    {
+      "source": "/MANTRA",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=MANTRA&discount=MANTRA",
+      "permanent": true
+    },
+    {
+      "source": "/mantra",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=MANTRA&discount=MANTRA",
+      "permanent": true
+    },
+    {
+      "source": "/Martha",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=MarthaStewart&discount=Martha",
+      "permanent": true
+    },
+    {
+      "source": "/martha",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=MarthaStewart&discount=Martha",
+      "permanent": true
+    },
+    {
+      "source": "/MidwestLiving",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=MidwestLiving&discount=MidwestLiving",
+      "permanent": true
+    },
+    {
+      "source": "/midwestliving",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=MidwestLiving&discount=MidwestLiving",
+      "permanent": true
+    },
+    {
+      "source": "/MrBicep",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=MrBicep&discount=MrBicep",
+      "permanent": true
+    },
+    {
+      "source": "/mrbicep",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=MrBicep&discount=MrBicep",
+      "permanent": true
+    },
+    {
+      "source": "/NewYork",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=NewYorkMagazine&discount=NY",
+      "permanent": true
+    },
+    {
+      "source": "/newyork",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=NewYorkMagazine&discount=NY",
+      "permanent": true
+    },
+    {
+      "source": "/OK",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=OK-Weekly&discount=OK",
+      "permanent": true
+    },
+    {
+      "source": "/ok",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=OK-Weekly&discount=OK",
+      "permanent": true
+    },
+    {
+      "source": "/GQ",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=GQ&discount=GQ",
+      "permanent": true
+    },
+    {
+      "source": "/Gq",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=GQ&discount=GQ",
+      "permanent": true
+    },
+    {
+      "source": "/gq",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=GQ&discount=GQ",
+      "permanent": true
+    },
+    {
+      "source": "/peo",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=People&discount=People",
+      "permanent": true
+    },
+    {
+      "source": "/people",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=People&discount=People",
+      "permanent": true
+    },
+    {
+      "source": "/People",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=People&discount=People",
+      "permanent": true
+    },
+    {
+      "source": "/shape15",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=Shape&discount=shape15",
+      "permanent": true
+    },
+    {
+      "source": "/essence",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=Essence&discount=essence11",
+      "permanent": true
+    },
+    {
+      "source": "/parents",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=Parents&discount=parents11",
+      "permanent": true
+    },
+    {
+      "source": "/harpers",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=Harpers&discount=harpers",
+      "permanent": true
+    },
+    {
+      "source": "/mens",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=Mens&discount=mens",
+      "permanent": true
+    },
+    {
+      "source": "/Harpers",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=Harpers&discount=harpers",
+      "permanent": true
+    },
+    {
+      "source": "/Mens",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=Mens&discount=mens",
+      "permanent": true
+    },
+    {
+      "source": "/allure",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=allure&discount=allure",
+      "permanent": true
+    },
+    {
+      "source": "/Allure",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=allure&discount=allure",
+      "permanent": true
+    },
+    {
+      "source": "/ALLURE",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=allure&discount=allure",
+      "permanent": true
+    },
+    {
+      "source": "/Hgtv",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=hgtv&discount=hgtv",
+      "permanent": true
+    },
+    {
+      "source": "/HGTV",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=hgtv&discount=hgtv",
+      "permanent": true
+    },
+    {
+      "source": "/hgtv",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=hgtv&discount=hgtv",
+      "permanent": true
+    },
+    {
+      "source": "/HGtv",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=hgtv&discount=hgtv",
+      "permanent": true
+    },
+    {
+      "source": "/PEOPLE",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=People&discount=People",
+      "permanent": true
+    },
+    {
+      "source": "/PEO",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=People&discount=People",
+      "permanent": true
+    },
+    {
+      "source": "/real",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=Real-Simple&discount=RealSimple",
+      "permanent": true
+    },
+    {
+      "source": "/REAL",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=Real-Simple&discount=RealSimple",
+      "permanent": true
+    },
+    {
+      "source": "/RealSimple",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=RealSimple&discount=RealSimple",
+      "permanent": true
+    },
+    {
+      "source": "/realsimple",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=RealSimple&discount=RealSimple",
+      "permanent": true
+    },
+    {
+      "source": "/shape",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=Shape&discount=Shape",
+      "permanent": true
+    },
+    {
+      "source": "/SHAPE",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=Shape&discount=Shape",
+      "permanent": true
+    },
+    {
+      "source": "/SouthernLiving",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=SouthernLiving&discount=SouthernLiving",
+      "permanent": true
+    },
+    {
+      "source": "/southernliving",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=SouthernLiving&discount=SouthernLiving",
+      "permanent": true
+    },
+    {
+      "source": "/style",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=InStyle&discount=Style",
+      "permanent": true
+    },
+    {
+      "source": "/STYLE",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=InStyle&discount=Style",
+      "permanent": true
+    },
+    {
+      "source": "/Today-Show",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=TodayShow&discount=TodayShow10",
+      "permanent": true
+    },
+    {
+      "source": "/today-show",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=TodayShow&discount=TodayShow10",
+      "permanent": true
+    },
+    {
+      "source": "/Travel",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=Travel+Leisure&discount=Travel",
+      "permanent": true
+    },
+    {
+      "source": "/travel",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=Travel+Leisure&discount=Travel",
+      "permanent": true
+    },
+    {
+      "source": "/USWeekly",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=USWeekly&discount=USWeekly",
+      "permanent": true
+    },
+    {
+      "source": "/usweekly",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=USWeekly&discount=USWeekly",
+      "permanent": true
+    },
+    {
+      "source": "/vog",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=Vogue&discount=Vogue",
+      "permanent": true
+    },
+    {
+      "source": "/VOG",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=Vogue&discount=Vogue",
+      "permanent": true
+    },
+    {
+      "source": "/WJXT",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=WJXT&discount=WJXT",
+      "permanent": true
+    },
+    {
+      "source": "/wjxt",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=WJXT&discount=WJXT",
+      "permanent": true
+    },
+    {
+      "source": "/womenshealth",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=womenshealth&discount=womenshealth",
+      "permanent": true
+    },
+    {
+      "source": "/WomensHealth",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=womenshealth&discount=womenshealth",
+      "permanent": true
+    },
+    {
+      "source": "/yourteen",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=YourTeen&discount=YourTeen",
+      "permanent": true
+    },
+    {
+      "source": "/YOURTEEN",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=YourTeen&discount=YourTeen",
+      "permanent": true
+    },
+    {
+      "source": "/FoodWine",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=Food&Wine&discount=FoodWine",
+      "permanent": true
+    },
+    {
+      "source": "/foodwine",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=FoodWine&discount=FoodWine",
+      "permanent": true
+    },
+    {
+      "source": "/ashybines",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=ashybines&discount=ashybines",
+      "permanent": true
+    },
+    {
+      "source": "/ASHYBINES",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=ashybines&discount=ashybines",
+      "permanent": true
+    },
+    {
+      "source": "/MarieClaire",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=MarieClaire&discount=MarieClaire",
+      "permanent": true
+    },
+    {
+      "source": "/marieclaire",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=MarieClaire&discount=MarieClaire",
+      "permanent": true
+    },
+    {
+      "source": "/MARIECLAIRE",
+      "destination": "/products/blendjet-2/?utm_medium=referral&utm_campaign=magazine&utm_source=magazine&utm_content=MarieClaire&discount=MarieClaire",
+      "permanent": true
+    },
+    {
+      "source": "/user-guide",
+      "destination": "/user-guide/blendjet-2",
+      "permanent": true
+    },
+    {
+      "source": "/guide",
+      "destination": "/user-guide/blendjet-2",
+      "permanent": true
+    },
+    {
+      "source": "/blogs/recipes/blendjet-recipe-jen-selters-homemade-hummus",
+      "destination": "/recipes/jen-selters-homemade-hummus",
+      "permanent": true
+    },
+    {
+      "source": "/blogs/recipes/rum-punch",
+      "destination": "/recipes/citrus-rum-punch",
+      "permanent": true
+    },
+    {
+      "source": "/blogs/recipes/spring-citrus-salad-dressing",
+      "destination": "/recipes/citrus-salad-dressing",
+      "permanent": true
+    },
+    {
+      "source": "/recipes/strawberry-orange-refresher",
+      "destination": "/recipes",
+      "permanent": true
+    },
+    {
+      "source": "/pages/kathryn-o-malley",
+      "destination": "/our-story",
+      "permanent": true
+    },
+    {
+      "source": "/pages/contact",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/pages/refund-policy",
+      "destination": "/returns",
+      "permanent": true
+    },
+    {
+      "source": "/blogs/news/diy-popsicles-summer-popsicle-pick-me-up",
+      "destination": "/recipes/jetpack-smoothie-popsicles",
+      "permanent": true
+    },
+    {
+      "source": "/pages/tutorials",
+      "destination": "/user-guide/blendjet-2",
+      "permanent": true
+    },
+    {
+      "source": "/pages/faqs",
+      "destination": "/faqs",
+      "permanent": true
+    },
+    {
+      "source": "/pages/patents",
+      "destination": "/patents",
+      "permanent": true
+    },
+    {
+      "source": "/pages/trademarks",
+      "destination": "/trademarks",
+      "permanent": true
+    },
+    {
+      "source": "/blogs/news/start-a-healthy-smoothie-habit",
+      "destination": "/recipes",
+      "permanent": true
+    },
+    {
+      "source": "/pages/about-us",
+      "destination": "/our-story",
+      "permanent": true
+    },
+    {
+      "source": "/pages/satisfaction-guarantee",
+      "destination": "/returns",
+      "permanent": true
+    },
+    {
+      "source": "/pages/blendjet-ambassador-agreement",
+      "destination": "/ambassador-agreement",
+      "permanent": true
+    },
+    {
+      "source": "/blog/good-in-bed-recipes-for-breakfast-in-bed",
+      "destination": "/recipes",
+      "permanent": true
+    },
+    {
+      "source": "/pages/jetpack-review",
+      "destination": "/jetpack-review",
+      "permanent": true
+    },
+    {
+      "source": "/pages/JetPack-Review",
+      "destination": "/jetpack-review",
+      "permanent": true
+    },
+    {
+      "source": "/products/blendjet-2-press-kit",
+      "destination": "/products/blendjet-2",
+      "permanent": true
+    },
+    {
+      "source": "/pages/JetPack-Review",
+      "destination": "/products/banana-blueberry-jetpack-ready-to-blend-smoothie",
+      "permanent": true
+    },
+    {
+      "source": "/team.html",
+      "destination": "/our-story",
+      "permanent": true
+    },
+    {
+      "source": "/pages/prop-65",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/products",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/products/blendjet-logo-beanie",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/discount/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/a/l/es/products/blendjet-one",
+      "destination": "/products/blendjet-2",
+      "permanent": true
+    },
+    {
+      "source": "/pages/thank-you",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/a/l/de/products/blendjet-one",
+      "destination": "/products/blendjet-2",
+      "permanent": true
+    },
+    {
+      "source": "/products/blendjet-one",
+      "destination": "/products/blendjet-2",
+      "permanent": true
+    },
+    {
+      "source": "/blogs/recipes/tagged/blendjet-recipe",
+      "destination": "/recipes",
+      "permanent": true
+    },
+    {
+      "source": "/products/blendjet-gradient-logo-t-shirt-unisex",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/products/blendjet-swirl-hat",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/blendje",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/discount/FRESH",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/FL",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/products/blendjet-coffee-mug",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/products/copy-of-blendjet-swirl-shirt-ladies",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/tip",
+      "destination": "/user-guide/blendjet-2",
+      "permanent": true
+    },
+    {
+      "source": "/404",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/products/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/a/l/pt/products/blendjet-one",
+      "destination": "/products/blendjet-2",
+      "permanent": true
+    },
+    {
+      "source": "/blendjet-2",
+      "destination": "/products/blendjet-2",
+      "permanent": true
+    },
+    {
+      "source": "/collections/jetpack-ready-to-blend-smoothiesha",
+      "destination": "/products/banana-blueberry-jetpack-ready-to-blend-smoothie",
+      "permanent": true
+    },
+    {
+      "source": "/pages/as-seen-on-new",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/products/blendjet-one__",
+      "destination": "/products/blendjet-2",
+      "permanent": true
+    },
+    {
+      "source": "/products/blendjet-womens-racerback-tank",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/replacement",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/test",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/a/l/it/products/blendjet-one",
+      "destination": "/products/blendjet-2",
+      "permanent": true
+    },
+    {
+      "source": "/discount/WELCOME10",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/guide",
+      "destination": "/user-guide/blendjet-2",
+      "permanent": true
+    },
+    {
+      "source": "/tips.",
+      "destination": "/user-guide/blendjet-2",
+      "permanent": true
+    },
+    {
+      "source": "/womanshealth",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/www.blendjet.com",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/blend10",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/BUYMEONE",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/details.html",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/Defranco12",
+      "destination": "https://www.inflcr.co/SH6FB",
+      "permanent": true
+    },
+    {
+      "source": "/DeFranco12",
+      "destination": "https://www.inflcr.co/SH6FB",
+      "permanent": true
+    },
+    {
+      "source": "/Defranco12",
+      "destination": "https://www.inflcr.co/SH6FB",
+      "permanent": true
+    },
+    {
+      "source": "/defranco",
+      "destination": "https://www.inflcr.co/SH6FB",
+      "permanent": true
+    },
+    {
+      "source": "/DEFRANCO",
+      "destination": "https://www.inflcr.co/SH6FB",
+      "permanent": true
+    },
+    {
+      "source": "/DeFranco",
+      "destination": "https://www.inflcr.co/SH6FB",
+      "permanent": true
+    },
+    {
+      "source": "/Defranco",
+      "destination": "https://www.inflcr.co/SH6FB",
+      "permanent": true
+    },
+    {
+      "source": "/protein",
+      "destination": "/products/jetpack-protein-smoothie",
+      "permanent": true
+    },
+    {
+      "source": "/Protein",
+      "destination": "/products/jetpack-protein-smoothie",
+      "permanent": true
+    },
+    {
+      "source": "/BBB",
+      "destination": "https://www.bedbathandbeyond.com/store/product/blendjet-reg-blendjet-2-portable-16-oz-blender/5541084",
+      "permanent": true
+    },
+    {
+      "source": "/Macys",
+      "destination": "https://www.macys.com/shop/product/blendjet-blendjet-2-portable-blender?ID=12186748",
+      "permanent": true
+    },
+    {
+      "source": "/blogs/news",
+      "destination": "/blog",
+      "permanent": true
+    },
+    {
+      "source": "/recipes/rum-punch",
+      "destination": "/recipes/citrus-rum-punch",
+      "permanent": true
+    },
+    {
+      "source": "/recipes/blendjet-recipe-jen-selters-homemade-hummus",
+      "destination": "/recipes/jen-selters-homemade-hummus",
+      "permanent": true
+    },
+    {
+      "source": "/blogs/recipes/spring-citrus-salad-dressing",
+      "destination": "/recipes/citrus-salad-dressing",
+      "permanent": true
+    },
+    {
+      "source": "/recipes/spring-citrus-salad-dressing",
+      "destination": "/recipes/citrus-salad-dressing",
+      "permanent": true
+    },
+    {
+      "source": "/products/banana-blueberry-jetpack-ready-to-blend-smoothie",
+      "destination": "/products/jetpack-smoothies?variant=39289167282242",
+      "permanent": true
+    },
+    {
+      "source": "/products/mango-matcha-jetpack-smoothie",
+      "destination": "/products/jetpack-smoothies?variant=39289167380546",
+      "permanent": true
+    },
+    {
+      "source": "/products/tropical-blue-jetpack-smoothie",
+      "destination": "/products/jetpack-smoothies?variant=39289167446082",
+      "permanent": true
+    },
+    {
+      "source": "/products/mocha-chia-jetpack-ready-to-blend-smoothie",
+      "destination": "/products/jetpack-smoothies?variant=39289167413314",
+      "permanent": true
+    },
+    {
+      "source": "/products/raspberry-dragon-fruit-jetpack-smoothie",
+      "destination": "/products/jetpack-smoothies?variant=39289167315010",
+      "permanent": true
+    },
+    {
+      "source": "/products/green-peach-ginger-jetpack-ready-to-blend-smoothie",
+      "destination": "/products/jetpack-smoothies?variant=39289167347778",
+      "permanent": true
+    }
+  ]
+}
